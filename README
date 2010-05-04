@@ -1,0 +1,14 @@
+soy-mode.el --- Major mode for editing Soy HTML templates
+
+Author:   AYUkawa,Yasuyuki  <ayu+github[at]yamayo.to>
+Keywords: languages, closure template.
+URL:      http://github.com/toomore-such/soy-mode
+License:  New BSD License.
+
+Commentary:
+This soy-mode is mainly derived from html-mode.
+
+Installation:
+1. put this file(soy-mode.el) to your directory for elisp (ex: ~/.emacs.d).
+2. add (load "soy-mode") to your dot.emacs files.
+3. finished!
