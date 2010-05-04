@@ -1,9 +1,9 @@
-;;; soy-mode.el --- Major mode for editing Soy HTML templates
+;;; soy-mode.el --- Major mode for Closure Templates (.soy).
 ;;; -*- Emacs-Lisp -*-
 ;;; -*- coding: utf-8 -*-
 
 ;; Author:   AYUkawa,Yasuyuki  <ayu+github[at]yamayo.to>
-;; Keywords: languages, closure template.
+;; Keywords: languages, ClosureTemplates.
 ;; URL:      http://github.com/toomore-such/soy-mode
 ;; License:  New BSD License.
 
@@ -24,7 +24,7 @@
 ;;; Commands:
 
 ;;; Installation:
-;; 1. put this file(soy-mode.el) to your directory for elisp (ex: ~/.emacs.d).
+;; 1. put this file (soy-mode.el) to your directory for elisp (ex: ~/.emacs.d/).
 ;; 2. add (load "soy-mode") to your dot.emacs files.
 ;; 3. finished!
 
